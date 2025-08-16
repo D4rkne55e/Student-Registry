@@ -8,7 +8,7 @@ pipeline {
     }
 
     tools {
-        nodejs "${NODE_VERSION}"
+        nodejs "NodeJS 16.x"
     }
 
     stages {
