@@ -5,6 +5,7 @@ pipeline {
         NODE_VERSION = '16.x'
         SERVICE_ID = 'render-service-id'
         RENDER_API_KEY = 'render-api-key'
+        PORT = '8090'
     }
 
     tools {
